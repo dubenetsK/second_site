@@ -131,7 +131,7 @@ p {
 }
 
 .section_one {
-    background: url(/img/back1.png) no-repeat;
+    background: url(./img/back1.png) no-repeat;
     background-size: cover;
 }
 
@@ -163,7 +163,7 @@ p {
 }
 
 .section_two {
-    background-image: url(/img/back2.png) no-repeat;
+    background-image: url(./img/back2.png) no-repeat;
     background-size: 100%;
 }
 
@@ -282,7 +282,7 @@ p {
 }
 
 .section_five {
-    background: url(/img/back5.png) no-repeat;
+    background: url(./img/back5.png) no-repeat;
     background-size: cover;
 }
 
