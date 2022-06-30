@@ -74,7 +74,7 @@ p {
 
 .nav_link:hover {
     color: #928e87;
-    font-size: clamp(12px, 5.5vw, 36px);
+    tranform: scale (1.2);
     transition: 200ms;
 }
 
@@ -131,7 +131,7 @@ p {
 }
 
 .section_one {
-    background: url(./img/back1.png) no-repeat;
+    background: url(../img/back1.png) no-repeat;
     background-size: cover;
 }
 
@@ -163,7 +163,7 @@ p {
 }
 
 .section_two {
-    background-image: url(./img/back2.png) no-repeat;
+    background-image: url(../img/back2.png) no-repeat;
     background-size: 100%;
 }
 
@@ -204,7 +204,7 @@ p {
 }
 
 .option:hover {
-    width: 30%;
+    transform: scale (1.2);
     background-color: #cdbcb0;
     box-shadow: 8px -8px 10px #2f364035;
     transition: 300ms;
@@ -282,7 +282,7 @@ p {
 }
 
 .section_five {
-    background: url(./img/back5.png) no-repeat;
+    background: url(../img/back5.png) no-repeat;
     background-size: cover;
 }
 
@@ -450,7 +450,7 @@ footer {
 }
 
 .foot_link_title:hover {
-    font-size: clamp(14px, 7.5vw, 42px);
+    transform: scale(1.2);
     transition: 200ms;
 }
 
