@@ -74,7 +74,7 @@ p {
 
 .nav_link:hover {
     color: #928e87;
-    tranform: scale (1.2);
+    tranform: scale(1.2);
     transition: 200ms;
 }
 
@@ -204,7 +204,7 @@ p {
 }
 
 .option:hover {
-    transform: scale (1.2);
+    transform: scale(1.2);
     background-color: #cdbcb0;
     box-shadow: 8px -8px 10px #2f364035;
     transition: 300ms;
@@ -434,7 +434,7 @@ footer {
 
 .foot_link_title {
     text-decoration: none;
-    font-size: clamp(14px, 6vw, 38px);
+    font-size: clamp(14px, 5vw, 38px);
     font-weight: bold;
     color: #fefefd;
     white-space: nowrap;
@@ -443,7 +443,7 @@ footer {
 
 .foot_link {
     text-decoration: none;
-    font-size: clamp(10px, 3.5vw, 30px);
+    font-size: clamp(10px, 3vw, 30px);
     color: #fefefd;
     white-space: nowrap;
     margin-top: 0.5vw;
